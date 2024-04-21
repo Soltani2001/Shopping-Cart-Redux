@@ -1,0 +1,17 @@
+.img{
+    width: 70%;
+    
+}
+
+.link  {
+    margin-top: 70px;
+    margin-bottom: 380px ;
+}
+.link a {
+    align-items: center;
+    background-color: #fe5d42;
+    padding: 16px 14px;
+    color: #fff ;
+    border-radius: 12px;
+    /* margin-bottom: 345px ; */
+}
